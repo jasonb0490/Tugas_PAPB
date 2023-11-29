@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718313268091",
+    "project_id": "papb-e590d",
+    "storage_bucket": "papb-e590d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718313268091:android:227aa644e73e2441c7d3de",
+        "android_client_info": {
+          "package_name": "com.example.tugaspapb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718313268091-18eaaaa0lmpq7gittu6mtt2briq8r8b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOEImo06Xvlcm2edY7CGxQwMiF7YZ22w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718313268091-18eaaaa0lmpq7gittu6mtt2briq8r8b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
